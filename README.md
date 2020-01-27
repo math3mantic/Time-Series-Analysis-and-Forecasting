@@ -22,4 +22,4 @@ Topics covered:
 7) SARIMA (Seasonal Autoregressive Integrated Moving Average) Models
 8) GARCH (Generalized Autoregressive Conditionally Heteroscedastic) Models
 
-Most of the problems are from the reference book, and the solutions are given in either handwritten or R language. My homework average on the course was around 110% so most of the solutions are good. Please, let me know if you think some of the solutions need to be improved.
+Most of the problems are from the reference book, and the solutions are given in pdf (written in LaTeX). Some of the calculations and all of the plots are created in R. My homework average on the course was around 110% so most of the solutions are good. Please, let me know if you think some of the solutions need to be improved.
