@@ -1,6 +1,6 @@
 # Time-Series-Analysis-and-Forecasting
 
-My homework solutions (in R) of the Ph.D. level statistics course (STAT 626) in Texas A&amp;M University.
+My homework solutions (in R) of the Ph.D. level statistics course (STAT 626) I have taken at Texas A&amp;M University.
 
 Reference Book : Time Series - A Data Analysis Approach Using R by Robert H. Shumway, David S. Stoffer
 
